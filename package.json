@@ -1,0 +1,21 @@
+{
+  "name": "NexonTalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^1.2.0",
+    "parcel-bundler": "^1.8.1"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "d3": "^5.4.0",
+    "save-svg-as-png": "^1.4.5"
+  }
+}
